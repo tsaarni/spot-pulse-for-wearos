@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+app/build/
+/build/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Kotlin
+.kotlin/
+
+# VS Code
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Screenshots and temp images
+screenshot.png
+correct.png
+
+# Backup files
+*.bak
+*~

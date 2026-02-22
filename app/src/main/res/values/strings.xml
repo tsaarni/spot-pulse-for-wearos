@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spot Hinta</string>
+    <string name="tile_current_price">Hinta nyt</string>
+    <string name="tile_today">Tänään</string>
+    <string name="tile_tomorrow">Huomenna</string>
+    <string name="price_now">Hinta nyt:</string>
+    <string name="high">Ylin:</string>
+    <string name="low">Alin:</string>
+</resources>
