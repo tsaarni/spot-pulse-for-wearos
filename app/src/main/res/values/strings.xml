@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Spot Hinta</string>
+    <string name="app_name">Spot Pulse</string>
     <string name="tile_current_price">Hinta nyt</string>
     <string name="tile_today">Tänään</string>
     <string name="tile_tomorrow">Huomenna</string>

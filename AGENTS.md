@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Wear Spothinta** is a standalone Wear OS application for tracking electricity spot prices in Finland.
+**Spot-Pulse** is a standalone Wear OS application for tracking electricity spot prices in Finland.
 
 ### Tech Stack
 - **UI:** Jetpack Compose for Wear OS
